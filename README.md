@@ -18,10 +18,6 @@ Our projects are here: [Welcome to Portfolio of infreck Company | infreck.dev](h
 
 Feel free to use our code ... We spent a lot of hours to give our ideas some life, this is our goal, to give birth some ideas, even it's not perfect.
 
-Leadership Through Software Development
-+ [pro2030 - infreck’s vision for 2030](https://pro2030.com/)
-+ [pro2040 - infreck’s vision for 2040](https://infreck.github.io/pro2040/)
-+ [pro2050 - infreck’s vision for 2050](https://pro2050.com/)
 
 
 ### Why Estonia?
