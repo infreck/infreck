@@ -19,12 +19,6 @@ Our projects are here: [Welcome to Portfolio of infreck Company | infreck.dev](h
 Feel free to use our code ... We spent a lot of hours to give our ideas some life, this is our goal, to give birth some ideas, even it's not perfect.
 
 
-
-### Why Estonia?
-
-In [2014](https://en.wikipedia.org/wiki/E-Residency_of_Estonia) Estonia launched its [eResidency program](https://e-resident.gov.ee/), allowing any non-Estonian to easily start a software company. In addition, the accounting firm [Xolo](https://www.xolo.io/) makes company management a breeze.
-
-
 ## Donation
 [infreck OÜ on XS:CODE](https://xscode.com/profile/infreck)
 
@@ -35,7 +29,7 @@ In [2014](https://en.wikipedia.org/wiki/E-Residency_of_Estonia) Estonia launched
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infreck&hide=html&layout=compact&theme=dark) 
 
-### :star: 2021
+### :star: 2022
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infreck&show_icons=true&theme=dark)
  
 
